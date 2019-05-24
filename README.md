@@ -7,13 +7,13 @@ It's the age-old problem: how do we get the most utility out of finite resources
 ## What's in the code?
 
 ### Contents:
-- [2017 Data Import and Cleaning]
-- [2018 Data Import and Cleaning]
-- [Exploratory Data Analysis]
-- [Data Visualization]
-- [Descriptive and Inferential Statistics]
-- [Outside Research]
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- 2017 Data Import and Cleaning
+- 2018 Data Import and Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Descriptive and Inferential Statistics
+- Outside Research
+- Conclusions and Recommendations
 
 ## Outside Research
 
